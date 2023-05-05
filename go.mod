@@ -1,4 +1,4 @@
-module uacbypass
+module github.com/jie-xiao/uacbypass
 
 go 1.18
 
